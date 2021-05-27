@@ -1,0 +1,16 @@
+ de algum lugar" >> bibliografia.txt
+ls
+git add.
+cd ..
+git status 
+cd bibliografia.txt
+cd ..
+echo  de algum lugar >> bibliografia.txt
+ls
+git add.
+cd ..
+git status 
+cd bibliografia.txt
+cd ..
+echo ' de algum lugar
+dealgum lugar
